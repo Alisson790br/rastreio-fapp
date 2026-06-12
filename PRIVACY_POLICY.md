@@ -34,6 +34,8 @@ As únicas informações utilizadas são:
  
   - ## 6. Contato
  
-  - Em caso de dúvidas sobre esta Política de Privacidade, entre em contato pelo repositório oficial:
+  - Em caso de dúvidas sobre esta Política de Privacidade, entre em contato:
  
-  - [https://github.com/Alisson790br/rastreio-fapp](https://github.com/Alisson790br/rastreio-fapp)
+  - **Desenvolvedor:** Alisson Rozendo Dos Santos
+  - **E-mail:** alisson.rozendo1998@gmail.com
+  - **Repositório:** [https://github.com/Alisson790br/rastreio-fapp](https://github.com/Alisson790br/rastreio-fapp)
